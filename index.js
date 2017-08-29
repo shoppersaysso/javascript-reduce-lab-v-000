@@ -19,4 +19,4 @@ const monologueLines = [
   'I am the one who knocks!'
 ];
 
-const wordCountMap =
+const wordCountMap = monologueLines.
