@@ -18,3 +18,5 @@ const monologueLines = [
   'No.',
   'I am the one who knocks!'
 ];
+
+const wordCountMap =
